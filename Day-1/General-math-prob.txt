@@ -1,0 +1,4 @@
+Day 1:
+
+Complete the basic mathematics topics used in different data structures and algorithm
+Scenario : Count digits, Palindrome Numbers, Factorial of a number and Trailing zeroes in Factorial
